@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathias Hidalgo
 =======================================================================================================================================
 
-Web Developer
+White Belt Web Developer
 -------------
 
 I'm a young developer who is learning and loves the technology overall. I've been learning code since 2020 and start with Frontend, Then switch to Backend where I feel really more comfortable . I'd like to create a business
