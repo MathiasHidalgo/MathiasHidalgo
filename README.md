@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 White Belt Web Developer
 -------------
 
-I'm a young developer who is learning and loves the technology overall. I've been learning code since 2020 and start with Frontend, Then switch to Backend where I feel really more comfortable . I'd like to create a business
+I'm a young developer who is always learning and keep doing projects solidifying my skills on it.
 
-*   🌍  I'm based in Arequipa, PE
+*   🌍  I'm based in Brampton, ON Canada
 *   ✉️  You can contact me at [mejhc2307lbc@gmail.com](mailto:mejhc2307lbc@gmail.com)
-*   🧠  I'm learning Golang and PostgreSQL
-*   🤝  I'm open to collaborating on Interesting Projects
+*   🧠  I'm learning Web and App Development
+*   🤝  I'm open to collaborating and working on Interesting Projects
 *   ⚡  I speak in Spanish (is my mother tongue) and English
 ### Skills
 <p align="left">
